@@ -1,0 +1,8 @@
+En aquest pràctica el principal objectiu no es entendre i saber utilitzar a la perfecció totes les eines que es mostren, s'enten que el notebook és molt extens.
+
+Lo important d'aquesta primera pressa de contacte amb les pràctiques de l'assigantura és entendre una mica sobre quines dades estas treballant i veure si necessiten algun tipus de transformació, 
+com fer aquestes transformacions, i sobre tot la raò darrera de fer aquesta feina.
+
+A la prova sobre aquesta pràctica no es demanarà que sapigueu perfectament com funcionen les apis sinò entendre la seva utilitat.
+
+Si que es demanarà que enteneu els conceptes que aporten aquestes eines (entendre en que ajuden les correlacions, els heatmaps, que vol dir que les dades estiguin esbiaixades i com solucionar el problemes intrínsec que poden tenir els datasets (inconsistencia de types, fillna, fer filtratges, aggregar nova informació etc).
