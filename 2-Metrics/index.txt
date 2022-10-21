@@ -1,0 +1,2 @@
+En aquesta pràctica els conceptes sobre com evaluar models i com prioritzar la finalitat del model és molt important. Més enllà del codi, que moltes coses ja estan implementades els conceptes darrera del codi
+són es que es demanaran al examen. En aquesta pràctica les preguntes proposades són una bona base de com realment serà el examen del divendres. Seran casos molt concrets i d'analitzar la situació més que de memoritzar el quan es fa servir una cosa i quan l'altre.
